@@ -1,0 +1,15 @@
+.border {
+    border: 2px rgb(162, 243, 41) solid;
+    border-radius: 10px;
+    padding: 10px;
+}
+.blue {
+    color: rgb(14, 241, 230);
+}
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid black;
+    transition: background 1s ease-in-out;
+}
